@@ -1,3 +1,3 @@
-def call(url) {
-    git credentialsId: 'GitHub', url: '${url}'
+def call(name) {
+    echo "Hi ${name}, Welcome to Jenkins"
 }
