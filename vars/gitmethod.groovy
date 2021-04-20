@@ -1,3 +1,3 @@
-def call(url){
-    git credentialsId: 'GitHub', url: "${url}"
+def checkOutFrom(repo) {
+  git url: "${repo}"
 }
