@@ -10,3 +10,5 @@ creating pull request
 
 
 sudheer
+
+soft reset
